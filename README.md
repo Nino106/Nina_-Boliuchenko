@@ -1,4 +1,4 @@
-#**Basic knowledge of Java**
+**Basic knowledge of Java**
 
 In the package main there are all 7 tasks implementation, in the test package you can see all tests, written using Junit.
 
